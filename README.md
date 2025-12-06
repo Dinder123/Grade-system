@@ -4,7 +4,7 @@ FINAL EVALUATION PROJECT
 Student Grade Management System - Starter Project
 
 
-Prepared by: Renne Nekesa
+Prepared by: Eunice Kioko
 Department of Computer Science
 Chuka University
 
